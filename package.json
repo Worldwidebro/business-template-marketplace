@@ -34,7 +34,7 @@
     "recharts": "^2.8.0",
     "react-hook-form": "^7.47.0",
     "zod": "^3.22.0",
-    "@hookform/resolvers": "^3.3.0",
+    "@hookform/resolvers": "^5.2.2",
     "nodemailer": "^6.9.0",
     "archiver": "^6.0.0",
     "aws-sdk": "^2.1480.0"
